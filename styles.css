@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #F0A500;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 8rem;
+  color: #FF0000;
+}
+
+p {
+  font-size: 2rem;
+  color: #FF0000;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #FF0000;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
